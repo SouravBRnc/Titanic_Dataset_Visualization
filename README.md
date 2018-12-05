@@ -1,2 +1,2 @@
 # Titanic_Dataset_Visualization
-Visualization of the Titanic Dataset along with some data transformation
+Visualization of the Titanic Dataset for better understanding
